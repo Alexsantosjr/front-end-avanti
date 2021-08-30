@@ -1,14 +1,14 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Alexsantosjr/front-end-corebiz?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Alexsantosjr/front-end-avanti?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Alexsantosjr/front-end-corebiz">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Alexsantosjr/front-end-avanti">
 
   <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alexsantosjr/front-end-corebiz">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alexsantosjr/front-end-avanti">
   </a>
 
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/Alexsantosjr/front-end-corebiz/stargazers">
+   <a href="https://github.com/Alexsantosjr/front-end-avanti/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/Alexsantosjr/front-end-corebiz?style=social">
   </a>
 
