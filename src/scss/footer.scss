@@ -1,0 +1,75 @@
+footer {
+  border-top: 1px gray solid;
+  width: 100%;
+  color: black;
+  display: flex;
+  flex-direction: column;
+
+  h2 {
+    color: #1b4d9b;
+    font-size: 18px;
+    margin-bottom: 24px;
+  }
+
+  .footer-content {
+    padding: 25px 72px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+    .categorys,
+    .institucional {
+      .links {
+        display: flex;
+        gap: 100px;
+
+        ul {
+          li {
+            margin-bottom: 18px;
+            a {
+              text-decoration: none;
+              color: black;
+              font-size: 16px;
+              font-weight: 600;
+              cursor: pointer;
+            }
+          }
+        }
+      }
+    }
+
+    .redes-sociais {
+      .links {
+        display: flex;
+        gap: 100px;
+
+        ul {
+          li {
+            margin-bottom: 18px;
+            a {
+              text-decoration: none;
+              color: black;
+              font-size: 16px;
+              font-weight: 600;
+              cursor: pointer;
+            }
+          }
+          ul {
+            display: flex;
+            gap: 20px;
+          }
+        }
+      }
+    }
+  }
+  .footer-bottom {
+    background-color: #f8f8f8;
+    p {
+      font-weight: bold;
+      color: #828282;
+      font-size: 14px;
+      padding: 24px 16px;
+      text-align: center;
+    }
+  }
+}
